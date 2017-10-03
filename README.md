@@ -2,7 +2,7 @@
 ## Sketch Color
 
 ```js
-const {msColorToRgba, rgbaToMSColor} = require('./sketch-color.js');
+const {msColorToRgba, rgbaToMSColor} = require('sketch-tools/sketch-color');
 
 rgbaToMSColor(41, 61, 74, 100); 
 /*
