@@ -5,7 +5,6 @@
 const {msColorToRgba, rgbaToMSColor} = require('./sketch-color.js');
 
 rgbaToMSColor(41, 61, 74, 100); 
-
 /*
 Output:
 { 
@@ -22,7 +21,6 @@ msColorToRgba({
   blue: 0.2901960784313726,
   alpha: 0.39215686274509803
 });
-
 /*
 Output:
 [41, 61, 74, 100]
