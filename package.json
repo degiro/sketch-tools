@@ -1,0 +1,10 @@
+{
+  "name": "sketch-tools",
+  "version": "1.0.0",
+  "description": "Isomorphic JavaScript numbers parser and formatter",
+  "files": [
+    "./*.js"
+  ],
+  "author": "webschik",
+  "license": "MIT"
+}
