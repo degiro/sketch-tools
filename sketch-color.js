@@ -31,6 +31,6 @@ exports.rgbaToMSColor = function (r, g, b, a) {
         red: r / 255,
         green: g / 255,
         blue: b / 255,
-        alpha: a / 255
+        alpha: a / 100
     };
 };
